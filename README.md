@@ -4,7 +4,7 @@
 git clone git@github.com:tecsinapse/weather-workshop.git
 ```
 
-## UI final do projeto
+## Final Projects UI
 
 ![UI](public/ui.png)
 
